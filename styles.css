@@ -1,0 +1,15 @@
+div {
+    color: blueviolet;
+    background-color: brown;
+    text-align: center;
+}
+.recipelist {
+    color: white;
+    background-color:rgb(209, 18, 18) ;
+}
+
+.recipename {
+    color: blue;
+    background-color: green;
+    text-align: center;
+}
